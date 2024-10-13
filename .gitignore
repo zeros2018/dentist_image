@@ -5,3 +5,5 @@
 *.v2
 logs/fit/20241005-220720/train/events.out.tfevents.1728162548.erwin.10950.0.v2
 *.v2
+hs_err_pid28056.log
+/logs
